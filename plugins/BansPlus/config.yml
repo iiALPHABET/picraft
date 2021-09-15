@@ -1,0 +1,45 @@
+# Contains a list useful things in the plugin!
+# ----------------------------------------------
+# Prefix = %prefix%
+# Staff Member (Who Punished) = %punisher%
+# Remaining time = %remainingtime%
+# Reason = %reason%
+# New Line = %new% 
+# IP Address = %ip% - IPBanMessage only!
+# All above used for Prefix, BanMessage, IPBanMessage, BlacklistMessage, KickMessage & MuteMessage.
+# ----------------------------------------------
+# ----------------------------------------------
+# Player name = %player%
+# Player display name = %display%
+# IP Address = %ip%
+# Player UUID = %uuid% 
+# Player ping = %ping%
+# All above used for InfoMessage.
+# ----------------------------------------------
+
+Lockdown: false
+LockdownReason: ''
+Prefix: '&8[&cBans+&8] &r'
+BanMessage: '%prefix% %new% %new%&eYou are banned from &cSERVERNAME&e! %new%&eReason:
+  &c%reason% %new% &eDuration: &c%remainingtime% %new%&eIssued: &c%punisher% %new%
+  &eAppeal at: &c&nwebsite.com'
+IPBanMessage: '%prefix% %new% %new%&eYou are IP banned from &cSERVERNAME&e! %new%&eReason:
+  &c%reason% %new% &eDuration: &c%remainingtime% %new%&eIssued: &c%punisher% %new%
+  &eAppeal at: &c&nwebsite.com'
+BlacklistMessage: '%prefix% %new% %new%&eYou are blacklisted from &cSERVERNAME&e!
+  %new%&eReason: &c%reason% %new% &eDuration: &c%remainingtime% %new%&eIssued: &c%punisher%
+  %new% &eAppeal at: &c&nwebsite.com'
+KickMessage: '%prefix% %new% %new%&eYou have been kicked! %new%&eIssued: &c%punisher%
+  %new%&eReason: &c%reason%'
+MuteMessage: '&7&m-------------------- %new%&eYou are muted! %new%&eIssued: &c%punisher%
+  %new%&eReason: &c%reason% %new%&eDuration: &c%remainingtime% %new%&7&m--------------------'
+InfoMessage:
+- '&7&m--------------------'
+- '&eInformation for &a%player%&e:'
+- ''
+- '&ePlayer Name: &a%player%'
+- '&eDisplay Name: &a%display%'
+- '&ePlayer UUID: &a%uuid%'
+- '&eIP Address: &a%ip%'
+- '&ePing: &a%ping%'
+- '&7&m--------------------'

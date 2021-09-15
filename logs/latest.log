@@ -1,0 +1,306 @@
+[15:51:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:51:20] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[15:51:21] [Worker-Main-1/INFO]: Loaded 7 recipes
+[15:51:22] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[15:51:22] [Server thread/INFO]: Loading properties
+[15:51:22] [Server thread/INFO]: This server is running Paper version git-Paper-259 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 810d200)
+[15:51:22] [Server thread/INFO]: Debug logging is disabled
+[15:51:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:51:22] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:51:22] [Server thread/INFO]: Default game type: SURVIVAL
+[15:51:22] [Server thread/INFO]: Generating keypair
+[15:51:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:51:23] [Server thread/INFO]: Using default channel type
+[15:51:23] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[15:51:23] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[15:51:24] [Server thread/ERROR]: [[STDERR] ] org.bukkit.craftbukkit.v1_17_R1.legacy.CraftLegacy Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[15:51:33] [Server thread/WARN]: Legacy plugin BansPlus v1.0 does not specify an api-version.
+[15:51:35] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.10
+[15:51:35] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[15:51:35] [Server thread/INFO]: [BansPlus] Loading BansPlus v1.0
+[15:51:35] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.0.1
+[15:51:35] [Server thread/INFO]: [ViaVersion] ViaVersion 4.0.1 is now loaded, injecting!
+[15:51:35] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[15:51:36] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[15:51:36] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[15:51:36] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.0.1
+[15:51:36] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[15:51:36] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[15:51:36] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[15:51:36] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[15:51:36] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[15:51:37] [Via-Mappingloader-6/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[15:51:37] [Via-Mappingloader-8/INFO]: [ViaBackwards] Loading 1.11 -> 1.10 mappings...
+[15:51:37] [Via-Mappingloader-9/INFO]: [ViaBackwards] Loading 1.13.2 -> 1.13 mappings...
+[15:51:37] [Via-Mappingloader-7/INFO]: [ViaBackwards] Loading 1.10 -> 1.9.4 mappings...
+[15:51:37] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.47
+[15:51:37] [Via-Mappingloader-9/INFO]: [ViaBackwards] Loading 1.15 -> 1.14 mappings...
+[15:51:37] [Via-Mappingloader-7/INFO]: [ViaBackwards] Loading 1.14 -> 1.13.2 mappings...
+[15:51:37] [Via-Mappingloader-2/INFO]: [ViaBackwards] Loading 1.16 -> 1.15 mappings...
+[15:51:37] [Via-Mappingloader-7/INFO]: [ViaBackwards] Loading 1.16.2 -> 1.16 mappings...
+[15:51:37] [Via-Mappingloader-7/INFO]: [ViaBackwards] Loading 1.17 -> 1.16.2 mappings...
+[15:51:37] [Via-Mappingloader-7/INFO]: [ViaBackwards] Loading 1.13 -> 1.12 mappings...
+[15:51:38] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.7.0
+[15:51:40] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.1.3
+[15:51:40] [Server thread/INFO]: [iDisguise] Loading iDisguise v5.8.2
+[15:51:40] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[15:51:40] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.6+4b2d1e7
+[15:51:40] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3fcac600]
+[15:51:40] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.0
+[15:51:40] [Server thread/INFO]: [EssentialsDiscord] Loading EssentialsDiscord v2.19.0
+[15:51:40] [Server thread/INFO]: [CommandPanels] Loading CommandPanels v3.17.1.1
+[15:51:40] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.9
+[15:51:40] [Server thread/INFO]: [HexNicks] Loading HexNicks v2.0.6
+[15:51:40] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.0-b846
+[15:51:40] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.5+3827266
+[15:51:40] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.24-SNAPSHOT (build 1605)
+[15:51:40] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v4.2.2-b500
+[15:51:40] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.19.0
+[15:51:40] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.2.1-b834
+[15:51:40] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v6.2.6
+[15:51:40] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.19.0
+[15:51:40] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v20.1
+[15:51:40] [Server thread/INFO]: [SilkSpawners] Loading SilkSpawners v7.1.0
+[15:51:40] [Server thread/INFO]: [LockettePro] Loading LockettePro v2.10.10
+[15:51:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:51:40] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.47
+[15:51:41] [Server thread/INFO]:         __    
+[15:51:41] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.47
+[15:51:41] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[15:51:41] [Server thread/INFO]: 
+[15:51:41] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[15:51:41] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[15:51:42] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[15:51:42] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[15:51:42] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1505ms)
+[15:51:42] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.7.0
+[15:51:42] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[15:51:42] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[15:51:42] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.19.0 which is not a depend, softdepend or loadbefore of this plugin.
+[15:51:42] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[15:51:42] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:51:42] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[15:51:42] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[15:51:42] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.6+4b2d1e7
+[15:51:42] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[15:51:42] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[15:51:43] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_17_R1_2 as the Bukkit adapter
+[15:51:45] [Server thread/INFO]: Preparing level "Hub"
+[15:51:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:51:46] [Server thread/INFO]: Time elapsed: 313 ms
+[15:51:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:51:46] [Server thread/INFO]: Time elapsed: 107 ms
+[15:51:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:51:47] [Server thread/INFO]: Time elapsed: 104 ms
+[15:51:47] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.10
+[15:51:47] [Server thread/WARN]: [PlaceholderAPI] Loaded class com.viaversion.viaversion.api.type.Type from ViaVersion v4.0.1 which is not a depend, softdepend or loadbefore of this plugin.
+[15:51:47] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[15:51:47] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[15:51:47] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[15:51:47] [Server thread/INFO]: [ClearLag] Loading modules...
+[15:51:47] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_17_R1.MinecraftServer)
+[15:51:47] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[15:51:47] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[15:51:47] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[15:51:47] [Server thread/INFO]: [BansPlus] Enabling BansPlus v1.0*
+[15:51:47] [Thread-7/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.17]...
+[15:51:47] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.0.1
+[15:51:47] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.0.1
+[15:51:47] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.1.3
+[15:51:47] [Server thread/INFO]: [SkinsRestorer] Unsupported plugin (ViaVersion or ProtocolSupport) detected, forcing SpigotSkinRefresher
+[15:51:47] [Server thread/INFO]: [SkinsRestorer] Using SpigotSkinRefresher
+[15:51:47] [Server thread/INFO]: [SkinsRestorer] Detected Minecraft v1_17_R1, using SpigotSkinRefresher.
+[15:51:47] [Server thread/INFO]: [SkinsRestorer] [ACF] Enabled Asynchronous Tab Completion Support!
+[15:51:47] [Thread-7/INFO]: [ClearLag] No updates found!
+[15:51:54] [Server thread/INFO]: [iDisguise] Enabling iDisguise v5.8.2
+[15:51:54] [Server thread/ERROR]: [iDisguise] iDisguise 5.8.2 is not compatible with your server version!
+[15:51:54] [Server thread/INFO]: [iDisguise] Disabling iDisguise v5.8.2
+[15:51:54] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.0
+[15:51:54] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[15:51:54] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[15:51:54] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[15:51:54] [Server thread/INFO]: [Essentials] Starting usermap repair
+[15:51:54] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[15:51:54] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[15:51:54] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[15:51:54] [Server thread/INFO]: [Essentials] Loaded 36837 items from items.json.
+[15:51:54] [Server thread/INFO]: [Essentials] Using locale en_AU
+[15:51:54] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[15:51:54] [Server thread/INFO]: [Essentials] Metrics disabled per bStats config.
+[15:51:54] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[15:51:54] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[15:51:54] [Server thread/INFO]: [EssentialsDiscord] Enabling EssentialsDiscord v2.19.0
+[15:51:54] [Server thread/INFO]: [EssentialsDiscord] Metrics disabled per bStats config.
+[15:51:54] [Server thread/INFO]: [EssentialsDiscord] Attempting to login to Discord...
+[15:51:54] [Server thread/ERROR]: [EssentialsDiscord] An error occurred while logging into Discord, which has caused the plugin to disable itself: 
+No token provided! Please follow the tutorial in the config in order to setup the plugin.
+[15:51:54] [Server thread/INFO]: [CommandPanels] Enabling CommandPanels v3.17.1.1
+[15:51:54] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.17.1.1 Plugin Loading...
+[15:51:54] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: commandpanels
+[15:51:54] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.17.1.1 Plugin Loaded!
+[15:51:54] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.9
+[15:51:54] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[15:51:54] [Server thread/INFO]: [HexNicks] Enabling HexNicks v2.0.6
+[15:51:54] [Server thread/INFO]: [HexNicks] Running on PaperMC server software.
+[15:51:54] [Server thread/INFO]: [HexNicks] Successfully loaded nicknames from Json storage.
+[15:51:55] [Server thread/INFO]: [HexNicks] Hooking into PlaceholderAPI...
+[15:51:55] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: hexnicks
+[15:51:55] [Server thread/INFO]: [HexNicks] Hooking into Vault...
+[15:51:55] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.0-b846
+[15:51:55] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.0-b846" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[15:51:55] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[15:51:55] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[15:51:55] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[15:51:55] [Server thread/INFO]: [Multiverse-Core] Version 4.3.0-b846 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[15:51:55] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.5+3827266
+[15:51:56] [Server thread/INFO]: [WorldGuard] (Hub) TNT ignition is PERMITTED.
+[15:51:56] [Server thread/INFO]: [WorldGuard] (Hub) Lighters are PERMITTED.
+[15:51:56] [Server thread/INFO]: [WorldGuard] (Hub) Lava fire is PERMITTED.
+[15:51:56] [Server thread/INFO]: [WorldGuard] (Hub) Fire spread is UNRESTRICTED.
+[15:51:56] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Hub'
+[15:51:56] [Server thread/INFO]: [WorldGuard] (Hub_nether) TNT ignition is PERMITTED.
+[15:51:56] [Server thread/INFO]: [WorldGuard] (Hub_nether) Lighters are PERMITTED.
+[15:51:56] [Server thread/INFO]: [WorldGuard] (Hub_nether) Lava fire is PERMITTED.
+[15:51:56] [Server thread/INFO]: [WorldGuard] (Hub_nether) Fire spread is UNRESTRICTED.
+[15:51:56] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Hub_nether'
+[15:51:56] [Server thread/INFO]: [WorldGuard] (Hub_the_end) TNT ignition is PERMITTED.
+[15:51:56] [Server thread/INFO]: [WorldGuard] (Hub_the_end) Lighters are PERMITTED.
+[15:51:56] [Server thread/INFO]: [WorldGuard] (Hub_the_end) Lava fire is PERMITTED.
+[15:51:56] [Server thread/INFO]: [WorldGuard] (Hub_the_end) Fire spread is UNRESTRICTED.
+[15:51:56] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Hub_the_end'
+[15:51:56] [Server thread/INFO]: [WorldGuard] Loading region data...
+[15:51:56] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.24-SNAPSHOT (build 1605)
+[15:51:56] [Server thread/INFO]: [Citizens] Could not fetch NMS field modifiers: [[modifiers.
+[15:51:56] [Server thread/ERROR]: [Citizens] v2.0.24-SNAPSHOT (build 1605) is not compatible with Minecraft v1_17_R1 - try upgrading or downgrading Citizens. Disabling.
+[15:51:56] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.24-SNAPSHOT (build 1605)
+[15:51:56] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.2-b500
+[15:51:56] [Server thread/INFO]: [Multiverse-Inventories 4.2.2-b500] enabled.
+[15:51:56] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.19.0
+[15:51:56] [Server thread/ERROR]: [EssentialsGeoIP] No license key found! Please visit https://essentialsx.net/geoip for first time setup instructions.
+[15:51:56] [Server thread/ERROR]: [EssentialsGeoIP] Failed to read GeoIP database!
+java.io.FileNotFoundException: plugins\EssentialsGeoIP\GeoIP2-Country.mmdb (The system cannot find the file specified)
+	at java.io.RandomAccessFile.open0(Native Method) ~[?:?]
+	at java.io.RandomAccessFile.open(RandomAccessFile.java:343) ~[?:?]
+	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:258) ~[?:?]
+	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:213) ~[?:?]
+	at com.earth2me.essentials.geoip.libs.maxmind.db.BufferHolder.<init>(BufferHolder.java:19) ~[EssentialsXGeoIP.jar:?]
+	at com.earth2me.essentials.geoip.libs.maxmind.db.Reader.<init>(Reader.java:116) ~[EssentialsXGeoIP.jar:?]
+	at com.earth2me.essentials.geoip.libs.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:66) ~[EssentialsXGeoIP.jar:?]
+	at com.earth2me.essentials.geoip.libs.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:54) ~[EssentialsXGeoIP.jar:?]
+	at com.earth2me.essentials.geoip.libs.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:160) ~[EssentialsXGeoIP.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:175) ~[EssentialsXGeoIP.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:51) ~[EssentialsXGeoIP.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:31) ~[EssentialsXGeoIP.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[patched_1.17.1.jar:git-Paper-259]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370) ~[patched_1.17.1.jar:git-Paper-259]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:500) ~[patched_1.17.1.jar:git-Paper-259]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.enablePlugin(CraftServer.java:535) ~[patched_1.17.1.jar:git-Paper-259]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.enablePlugins(CraftServer.java:449) ~[patched_1.17.1.jar:git-Paper-259]
+	at net.minecraft.server.MinecraftServer.loadWorld(MinecraftServer.java:725) ~[patched_1.17.1.jar:git-Paper-259]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:306) ~[patched_1.17.1.jar:git-Paper-259]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1212) ~[patched_1.17.1.jar:git-Paper-259]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319) ~[patched_1.17.1.jar:git-Paper-259]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[15:51:56] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[15:51:56] [Server thread/INFO]: [EssentialsGeoIP] Metrics disabled per bStats config.
+[15:51:56] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.1-b834
+[15:51:56] [Server thread/INFO]: [Multiverse-Portals] 0 - Portals(s) loaded
+[15:51:56] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[15:51:56] [Server thread/INFO]: [Multiverse-Portals 4.2.1-b834]  Enabled - By Rigby and fernferret
+[15:51:56] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.6
+[15:51:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: supervanish
+[15:51:56] [Server thread/INFO]: [SuperVanish] Hooked into PlaceholderAPI
+[15:51:56] [Server thread/INFO]: [SuperVanish] Hooked into Essentials
+[15:51:56] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.19.0
+[15:51:56] [Server thread/INFO]: [EssentialsSpawn] Metrics disabled per bStats config.
+[15:51:56] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v20.1
+[15:51:56] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[15:51:56] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[15:51:56] [Server thread/INFO]: --------------------
+[15:51:56] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[15:51:56] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[15:51:56] [Server thread/INFO]: --------------------
+[15:51:56] [Server thread/INFO]: [SilkSpawners] Enabling SilkSpawners v7.1.0
+[15:51:57] [Server thread/INFO]: [SilkSpawners] WorldGuard was found and support is enabled
+[15:51:57] [Server thread/INFO]: [SilkSpawners] Loading support for v1_17_R1
+[15:51:57] [Server thread/INFO]: [SilkSpawners] AutoUpdater is enabled and now running.
+[15:51:57] [Server thread/INFO]: [SilkSpawners] BarAPI is disabled due to config setting.
+[15:51:57] [Server thread/INFO]: [LockettePro] Enabling LockettePro v2.10.10
+[15:51:57] [Server thread/INFO]: [LockettePro] Incompatible server version detected: 1.17.1 . Trying to run into 1.16 compatibility mode!
+[15:51:57] [Server thread/INFO]: [LockettePro] ===================================
+[15:51:58] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[15:51:58] [Server thread/INFO]: Running delayed init tasks
+[15:51:58] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
+[15:51:58] [Craft Scheduler Thread - 9 - Essentials/INFO]: [Essentials] Fetching version information...
+[15:51:58] [Server thread/INFO]: [SkinsRestorer] Activating ViaBackwards workaround.
+[15:51:58] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[15:51:58] [Craft Scheduler Thread - 16 - Vault/INFO]: [Vault] Checking for Updates ... 
+[15:51:58] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[15:51:58] [Server thread/INFO]: [SilkSpawners] Result from AutoUpdater is: NO_UPDATE
+[15:51:58] [Server thread/INFO]: No expansions were registered!
+[15:51:58] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[15:51:58] [Server thread/INFO]: Done (36.022s)! For help, type "help"
+[15:51:58] [Craft Scheduler Thread - 16 - Vault/INFO]: [Vault] No new version available
+[15:51:58] [Server thread/INFO]: Timings Reset
+[15:51:59] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:51:59] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[15:51:59] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[15:51:59] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[15:51:59] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[15:51:59] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[15:51:59] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:51:59] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.1.3
+[15:51:59] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer]     This is the latest version!
+[15:51:59] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:52:07] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[15:52:19] [Server thread/INFO]: CONSOLE issued server command: /deletekit 
+[15:52:19] [Server thread/INFO]: Kits: Tools Dtools Notch Color Firework
+[15:52:24] [Server thread/INFO]: Stopping server
+[15:52:24] [Server thread/INFO]: [LockettePro] Disabling LockettePro v2.10.10
+[15:52:24] [Server thread/INFO]: [SilkSpawners] Disabling SilkSpawners v7.1.0
+[15:52:24] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v20.1
+[15:52:24] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[15:52:25] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v20.1
+[15:52:25] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.19.0
+[15:52:25] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v6.2.6
+[15:52:25] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.2.1-b834
+[15:52:25] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.19.0
+[15:52:25] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v4.2.2-b500
+[15:52:25] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.5+3827266
+[15:52:25] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[15:52:25] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.0-b846
+[15:52:25] [Server thread/INFO]: [HexNicks] Disabling HexNicks v2.0.6
+[15:52:25] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.9
+[15:52:25] [Server thread/INFO]: [CommandPanels] Disabling CommandPanels v3.17.1.1
+[15:52:25] [Server thread/INFO]: RockyHawk's CommandPanels Plugin Disabled, aww man.
+[15:52:25] [Server thread/INFO]: [EssentialsDiscord] Disabling EssentialsDiscord v2.19.0
+[15:52:25] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.0
+[15:52:25] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[15:52:25] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.6+4b2d1e7
+[15:52:25] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[15:52:25] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[15:52:25] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.1.3
+[15:52:25] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.7.0
+[15:52:25] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.47
+[15:52:25] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[15:52:25] [Server thread/INFO]: [LuckPerms] Closing storage...
+[15:52:26] [Server thread/INFO]: [LuckPerms] Goodbye!
+[15:52:26] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.0.1
+[15:52:26] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.0.1
+[15:52:26] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[15:52:26] [Server thread/INFO]: [BansPlus] Disabling BansPlus v1.0
+[15:52:26] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[15:52:26] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[15:52:26] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.10.10
+[15:52:26] [Server thread/INFO]: Saving players
+[15:52:26] [Server thread/INFO]: Saving worlds
+[15:52:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Hub]'/minecraft:overworld
+[15:52:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Hub_nether]'/minecraft:the_nether
+[15:52:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Hub_the_end]'/minecraft:the_end
+[15:52:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (Hub): All chunks are saved
+[15:52:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:52:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:52:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:52:33] [Server thread/INFO]: Flushing Chunk IO
+[15:52:33] [Server thread/INFO]: Closing Thread Pool
+[15:52:33] [Server thread/INFO]: Closing Server
